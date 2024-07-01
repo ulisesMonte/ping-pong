@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PipelineBuildEvent xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <SourceFile>C:/Users/Usuario/source/repos/tp pong/tp pong/Content/ball-dragon.mp3</SourceFile>
+  <SourceTime>2024-06-24T21:24:23.3406998-03:00</SourceTime>
+  <DestFile>C:/Users/Usuario/source/repos/tp pong/tp pong/Content/bin/Windows/ball-dragon.xnb</DestFile>
+  <DestTime>2024-06-24T21:31:11.0903362-03:00</DestTime>
+  <Importer>Mp3Importer</Importer>
+  <ImporterTime>2018-12-08T13:35:54-03:00</ImporterTime>
+  <Processor>SoundEffectProcessor</Processor>
+  <ProcessorTime>2018-12-08T13:35:54-03:00</ProcessorTime>
+  <Parameters>
+    <Key>Quality</Key>
+    <Value>Best</Value>
+  </Parameters>
+  <Dependencies />
+  <BuildAsset />
+  <BuildOutput />
+</PipelineBuildEvent>

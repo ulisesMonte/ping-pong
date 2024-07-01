@@ -1,0 +1,129 @@
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\tp pong.exe
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\tp pong.deps.json
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\tp pong.runtimeconfig.json
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\tp pong.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\tp pong.pdb
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.AssemblyReference.cache
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.AssemblyInfoInputs.cache
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.AssemblyInfo.cs
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.CopyComplete
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\refint\tp pong.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.pdb
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\tp pong.genruntimeconfig.cache
+C:\Users\Usuario\source\repos\tp pong\tp pong\obj\Debug\net6.0-windows\ref\tp pong.dll
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Content\Canchita.xnb
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Content\File.xnb
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Content\gol-2-2.wma
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Content\ball-dragon.wma
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Content\ball-dragon.xnb
+C:\Users\Usuario\source\repos\tp pong\tp pong\bin\Debug\net6.0-windows\Content\gol-messi_.xnb
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Content\ball-dragon.wma
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Content\gol-2-2.wma
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Content\ball-dragon.xnb
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Content\Canchita.xnb
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Content\File.xnb
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Content\gol-messi_.xnb
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\tp pong.exe
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\tp pong.deps.json
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\tp pong.runtimeconfig.json
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\tp pong.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\tp pong.pdb
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.AssemblyInfoInputs.cache
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.AssemblyInfo.cs
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.CopyComplete
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\refint\tp pong.dll
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.pdb
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\tp pong.genruntimeconfig.cache
+C:\Users\Usuario\Documents\programacion\c#\tp pong\obj\Debug\net6.0-windows\ref\tp pong.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Content\ball-dragon.wma
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Content\gol-2-2.wma
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Content\ball-dragon.xnb
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Content\Canchita.xnb
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Content\File.xnb
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Content\gol-messi_.xnb
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\tp pong.exe
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\tp pong.deps.json
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\tp pong.runtimeconfig.json
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\tp pong.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\tp pong.pdb
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\MonoGame.Framework.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct2D1.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct3D11.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.Direct3D9.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.DXGI.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.Mathematics.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.MediaFoundation.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.XAudio2.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\SharpDX.XInput.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\runtimes\debian-x64\native\libuv.so
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\runtimes\fedora-x64\native\libuv.so
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\runtimes\opensuse-x64\native\libuv.so
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\runtimes\osx\native\libuv.dylib
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\runtimes\rhel-x64\native\libuv.so
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\runtimes\win7-arm\native\libuv.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\runtimes\win7-x64\native\libuv.dll
+C:\Users\seisge\Downloads\tp pong\bin\Debug\net6.0-windows\runtimes\win7-x86\native\libuv.dll
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.AssemblyReference.cache
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.AssemblyInfoInputs.cache
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.AssemblyInfo.cs
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.CoreCompileInputs.cache
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.csproj.CopyComplete
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.dll
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\refint\tp pong.dll
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.pdb
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\tp pong.genruntimeconfig.cache
+C:\Users\seisge\Downloads\tp pong\obj\Debug\net6.0-windows\ref\tp pong.dll
